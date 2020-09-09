@@ -1,0 +1,1 @@
+#采用前端架构vue开发，使用开发者工具HBuilderX,vue编译的html、css、js文件位于upackage/中，适配于移动端。
